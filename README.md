@@ -12,11 +12,11 @@ Supported: Python 3.10+, PyQt5. Works on Linux / macOS / Windows where Python, a
 - Configurable coordinates (in code) for quick edits; easy to add JSON config later.
 - Attempts to start `scrcpy` automatically if available; overlay still works without scrcpy.
 
-## Quick start (copy & paste)
+## Quick start
 
 1. Clone repo (if not already):
 ```bash
-git clone <your-repo-url> topscreen
+git clone https://github.com/dummy3ye/topscreen.git
 cd topscreen
 ```
 
